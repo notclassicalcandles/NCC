@@ -1,0 +1,119 @@
+footer {
+  background-color: #b1c4a0;
+  color: #2e2e2f;
+  padding: 2.5em;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #2e2e2f;
+  font-size: 21px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  color: #873e23;
+  font-size: 36px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-weight: 700;
+  font-family: 'Lora', sans-serif;
+}
+
+.btt {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: #ffad7c;
+    border-radius: 50%;
+    text-align: center;
+    color: #2e2e2f;
+    font-size: 30px;
+}
+
+.btt a, a:hover {
+    color: #2e2e2f;
+}
+
+.form a{
+  color: #2e2e2f;
+}
+
+.form a:hover{
+  color: #fff;
+}
+
+.contatti a{
+  color: #2e2e2f;
+  text-decoration: none;
+}
+
+.contatti a:hover{
+  color: #fff;
+  text-decoration: underline;
+}
+
+.mission {
+  height: 250px;
+  width: auto;
+}
+
+.banda1 {
+  background-color: rgba(234, 182, 118, 0.2);
+}
+
+.banda2 {
+  background-color: rgba(234, 182, 118, 0.4);
+}
+
+.epigrafe {
+  text-align: center;
+}
+
+.desi {
+  height: 350px;
+  width: auto;
+  border-radius: 100%;
+}
+
+.foglia{
+  position: relative;
+  top: -4.7px;
+  height: 30px;
+  width: auto;
+}
+
+.icone {
+  height: 200px;
+  width: auto;
+  border-radius: 100%;
+}
+
+.impegno{
+  padding-top: 80px;
+}
+
+.navbar {
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.nav-item {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.sottotitolo {
+  font-size: 24px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}

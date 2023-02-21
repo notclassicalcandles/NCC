@@ -1,0 +1,108 @@
+footer {
+  background-color: #b1c4a0;
+  color: #2e2e2f;
+  padding: 2.5em;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #2e2e2f;
+  font-size: 21px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.light{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #2e2e2f;
+  font-size: 21px;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  padding-left: 40px;
+  padding-right: 40px;
+  color: #873e23;
+  font-size: 34px;
+  font-weight: 700;
+  font-family: 'Lora', sans-serif;
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 41px;
+}
+
+.btt {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: #ffad7c;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+
+.btt a, a:hover {
+    color: #2e2e2f;
+}
+
+.form a{
+  color: #2e2e2f;
+}
+
+.form a:hover{
+  color: #fff;
+}
+
+.contatti a{
+  color: #2e2e2f;
+  text-decoration: none;
+}
+
+.contatti a:hover{
+  color: #fff;
+  text-decoration: underline;
+}
+
+.banda1{
+  background-color: rgba(234, 182, 118, 0.2);
+}
+
+.banda2{
+  background-color: rgba(234, 182, 118, 0.4);
+}
+
+.img-pag {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+}
+
+.navbar {
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.form-text{
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item {
+  padding-left: 20px;
+  padding-right: 20px;
+}
