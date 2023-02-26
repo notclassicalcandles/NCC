@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://notclassicalcandles.github.io/NCC/sitemap.xml
