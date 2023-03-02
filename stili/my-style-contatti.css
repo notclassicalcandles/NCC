@@ -17,7 +17,7 @@ p{
   font-family: 'Montserrat', sans-serif;
 }
 
-h1{
+h1, h2{
   color: #873e23;
   font-size: 36px;
   padding-left: 40px;
@@ -77,16 +77,11 @@ h1{
 }
 
 .contatti2{
-  padding-left: 150px;
+  padding-left: 40px;
+  padding-right: 40px;
   font-size: 19px;
   font-weight: 400;
   font-family: 'Montserrat', sans-serif;
-}
-
-.ordina{
-  padding-left: 150px;
-  font-weight: 700;
-  font-family: 'Lora', sans-serif;
 }
 
 .altri-contatti{
